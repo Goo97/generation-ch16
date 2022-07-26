@@ -1,0 +1,16 @@
+ul{
+    list-style-type: square;
+}
+ol {
+    list-style-type: armenian;
+}
+div{
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+}
+a{
+    background-color: chartreuse;
+    display: inline-block;
+    width: fit-content;
+}

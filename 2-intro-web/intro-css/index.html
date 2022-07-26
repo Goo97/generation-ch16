@@ -5,14 +5,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <!--Selector de clase, selector universal y ID-->
     <style type="text/css" media="all">
-        body {background-color: rgb(47, 16, 77);}
-        * { } 
+        body {background-color: rgba(68, 36, 101, 0.808);}
+        * .univ {color: rgb(214, 5, 54);}  
+        p#id {color: rgb(66, 211, 37);} 
     </style>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/selector.css">
 </head>
 <body>
     <h1 style="color: aquamarine;">Holis</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam minus maiores accusamus minima nihil maxime ex repellendus, dignissimos earum aspernatur, nesciunt facilis corrupti eligendi voluptatibus sint corporis eveniet sunt rerum.</p>
+    <p class="univ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam minus maiores accusamus minima nihil maxime ex repellendus, dignissimos earum aspernatur, nesciunt facilis corrupti eligendi voluptatibus sint corporis eveniet sunt rerum.</p>
+    <p id="id">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis aspernatur, pariatur dicta tenetur iste, fuga nam doloribus, hic illum tempora est nemo iure assumenda reiciendis ipsam. Animi deserunt dolore optio!</p>
+    <div>
+        <ul>
+          <li>
+            esto es una lista
+            <p>esto es otro párrafo interno </p>
+          </li>
+        </ul>
+        <p>esto es otro párrafo </p>
+        </div>
+        <!--
+          Selector hijo E>F. Afecta sólo lo que está dentro de E.
+          selector consecutivo E + F. Sólo afecta al primer elemento hermano. 
+          selector hermano E ~ F. Va a afectar todo lo que venga despúes de E.
+        -->
+    <p>Este párrafo está fuera y es el primero afectado después de div</p>
+    <p>Otro párrafo afuera</p>
+    <br>
+    <a href="medidas.html">Ir a página de medidas</a>
 </body>
 </html>
