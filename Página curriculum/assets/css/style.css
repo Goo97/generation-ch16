@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+.perfil{
+    color: blanchedalmond;
+}
+.fotofrontal{
+    padding-left: 20px;
+}
+.titulo{
+    display: inline;
+}
