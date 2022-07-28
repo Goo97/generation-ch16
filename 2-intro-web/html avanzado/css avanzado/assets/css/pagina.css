@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*Nav*/
+.contenedor{
+    max-width: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px 25px;
+}
+nav{
+    background-color: aquamarine;
+}
+.contenedor img{
+    width: 50px;
+    height: 50px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 5px;
+}
+a:hover{
+    color: red;
+    font-size: larger;
+}
+
+/*Banner*/
+.banner{
+    max-width: 1500px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.banner img{
+    width: 100%;
+    height: 300px;
+    /*Corta la imagen lo suficiente para mantener el aspecto*/
+    object-fit: cover;
+    object-position: bottom;
+}
+.banner:hover{
+    transform: scale(1.03);
+}

@@ -1,0 +1,53 @@
+.caja_padre{
+    background-color: rgba(254, 199, 173, 0.863);
+    display: flex;
+    flex-direction: row;
+    /* Nos permite alinear en horizontal */
+    justify-content: space-between;
+     /* Nos permite alinear en vertical */
+    align-items: center;
+}
+.cajas{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    padding: 30px;
+    border: 3px solid;
+    border-color: gold;
+    
+}
+.el1{
+    align-self: flex-start;
+    flex-grow: 2;
+}
+.el2{
+    background-color: rgb(221, 16, 16);
+    flex-grow: 1;
+}
+.el3{
+    background-color: aquamarine;
+    flex-grow: 1;
+}
+
+.el4{
+    background-color: blue;
+    flex-grow: 1;
+}
+.el5{
+    background-color: chartreuse;
+    flex-grow: 1;
+}
+
+/* intro bootsrap*/
+.contenedor{
+    background-color: aqua;
+    height: 200px;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.fila{
+    display: flex;
+}
+.columna{
+    flex-grow: 1;
+}
