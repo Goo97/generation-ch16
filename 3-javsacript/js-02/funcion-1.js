@@ -30,10 +30,12 @@ let apellido1 = "Rochin";
 let apellido2 = "Salazar";
 function nombrecompleto (nombres, 
     apellido1, apellido2){
-        console.log(nombres, "", apellido1, apellido2);
+        console.log(nombres +" "+ apellido1 +" "+ apellido2);
     }
-    console.log (nombrecompleto);
+    console.log (nombrecompleto (nombres, 
+        apellido1, apellido2));
 
 function division (a, b){
-
+    console.log(a/b);
 }    
+division (10,5)
