@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a00f19-b977-492f-abe4-794743ef466f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Prueba1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prueba1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prueba1/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prueba1/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Las 12 casas del código/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Las 12 casas del código/assets/js/cajero.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Las 12 casas del código/assets/js/numeromagico.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Las 12 casas del código/assets/js/payaso.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Las 12 casas del código/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/variables/src/EjemploVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/variables/variables/src/EjemploVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test Operadores _ Digital Learning.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +26,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
