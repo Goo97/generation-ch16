@@ -1,3 +1,5 @@
+package MiSaludo;
+
 public class Ejemplosaludo {
     public static void main(String[] args) {
         Saludo objsaludo;//declarar objeto

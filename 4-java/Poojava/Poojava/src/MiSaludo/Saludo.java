@@ -1,5 +1,7 @@
+package MiSaludo;
+
 public class Saludo {
-    void saludar(){
+    public void saludar(){
         System.out.println("Hola");
     }
 }
