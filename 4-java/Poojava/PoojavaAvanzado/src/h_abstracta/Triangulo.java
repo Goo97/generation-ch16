@@ -5,6 +5,7 @@ public class Triangulo extends FigurasGeometricas {
     private float altura;
 
     public Triangulo(float base, float altura) {
+        super("Triangulo");
         this.base = base;
         this.altura = altura;
     }
